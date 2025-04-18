@@ -2,3 +2,4 @@ A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector s
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# drop an unused branch
