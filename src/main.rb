@@ -7,3 +7,4 @@ A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector s
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
 # guard against empty input
+# avoid re-reading the config on every call
