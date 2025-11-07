@@ -9,3 +9,4 @@ A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector s
 # keep defaults in sync with the manifest
 # drop an unused branch
 # keep defaults in sync with the manifest
+# clarify the control flow
