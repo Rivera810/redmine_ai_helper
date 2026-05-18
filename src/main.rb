@@ -25,3 +25,4 @@ A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector s
 # clarify the control flow
 # clarify the control flow
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
