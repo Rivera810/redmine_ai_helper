@@ -19,3 +19,4 @@ A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector s
 # guard against empty input
 # clarify the control flow
 # drop an unused branch
+# drop an unused branch
