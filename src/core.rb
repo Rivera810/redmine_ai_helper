@@ -32,3 +32,4 @@ A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector s
 # clarify the control flow
 # clarify the control flow
 # handle the edge case from the last release
+# drop an unused branch
